@@ -22,7 +22,7 @@ O diagrama UML a ima ilustra a modelagem do componente iPhone. Este diagrama foi
 
   ### `ReprodutorMusical`
 
-`+tocar()`
+`tocar()`
 `pausar()`
 `selecionarMusica(String musica)`
 
